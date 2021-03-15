@@ -1,11 +1,66 @@
 fileFormatVersion: 2
 guid: 3a32305568cf2304c888c2bae7ac729a
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Truck 2 Cargo
+    100004: WheelT2-1
+    100006: WheelT2-2
+    100008: WheelT2-3
+    100010: WheelT2-4
+    100012: WheelT2-5
+    100014: WheelT2-6
+    100016: WheelT2-7
+    100018: WheelT2-8
+    400000: //RootNode
+    400002: Truck 2 Cargo
+    400004: WheelT2-1
+    400006: WheelT2-2
+    400008: WheelT2-3
+    400010: WheelT2-4
+    400012: WheelT2-5
+    400014: WheelT2-6
+    400016: WheelT2-7
+    400018: WheelT2-8
+    2100000: CarPaint
+    2100002: CarWindows
+    2100004: CarLamps
+    2100006: CarRubber
+    2300000: //RootNode
+    2300002: Truck 2 Cargo
+    2300004: WheelT2-1
+    2300006: WheelT2-2
+    2300008: WheelT2-3
+    2300010: WheelT2-4
+    2300012: WheelT2-5
+    2300014: WheelT2-6
+    2300016: WheelT2-7
+    2300018: WheelT2-8
+    3300000: //RootNode
+    3300002: Truck 2 Cargo
+    3300004: WheelT2-1
+    3300006: WheelT2-2
+    3300008: WheelT2-3
+    3300010: WheelT2-4
+    3300012: WheelT2-5
+    3300014: WheelT2-6
+    3300016: WheelT2-7
+    3300018: WheelT2-8
+    4300000: Truck 2
+    4300002: Truck 2 Cargo
+    4300004: WheelT2-8
+    4300006: WheelT2-7
+    4300008: WheelT2-6
+    4300010: WheelT2-5
+    4300012: WheelT2-4
+    4300014: WheelT2-3
+    4300016: WheelT2-2
+    4300018: WheelT2-1
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,32 +93,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -72,10 +120,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,17 +133,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

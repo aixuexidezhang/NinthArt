@@ -1,11 +1,395 @@
 fileFormatVersion: 2
 guid: 14e8910b063a684469b9dfebe3650f97
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ROOF_base_10
+    100004: ROOF_base_11
+    100006: ROOF_base_12
+    100008: ROOF_base_13
+    100010: ROOF_base_14
+    100012: ROOF_base_15
+    100014: ROOF_base_16
+    100016: ROOF_base_17
+    100018: ROOF_base_18
+    100020: ROOF_base_19
+    100022: ROOF_base_20
+    100024: ROOF_base_21
+    100026: ROOF_base_22
+    100028: ROOF_base_23
+    100030: ROOF_base_24
+    100032: ROOF_base_25
+    100034: ROOF_base_26
+    100036: ROOF_base_27
+    100038: ROOF_base_28
+    100040: ROOF_base_29
+    100042: ROOF_base_3
+    100044: ROOF_base_30
+    100046: ROOF_base_31
+    100048: ROOF_base_32
+    100050: ROOF_base_33
+    100052: ROOF_base_34
+    100054: ROOF_base_4
+    100056: ROOF_base_5
+    100058: ROOF_base_6
+    100060: ROOF_base_7
+    100062: ROOF_base_8
+    100064: ROOF_base_9
+    100066: ROOF_base_small_10
+    100068: ROOF_base_small_11
+    100070: ROOF_base_small_12
+    100072: ROOF_base_small_13
+    100074: ROOF_base_small_4
+    100076: ROOF_base_small_5
+    100078: ROOF_base_small_6
+    100080: ROOF_base_small_7
+    100082: ROOF_base_small_8
+    100084: ROOF_base_small_9
+    100086: ROOF_corner_out_2
+    100088: ROOF_corner_out_3
+    100090: ROOF_corner_out_4
+    100092: ROOF_corner_out_5
+    100094: ROOF_corner_out_6
+    100096: ROOF_corner_out_7
+    100098: ROOF_corner_out_8
+    100100: ROOF_corner_out_9
+    100102: ROOF_small_triangle_up_2
+    100104: ROOF_small_triangle_up_3
+    100106: WALL_02_2
+    100108: WALL_02_3
+    100110: WALL_02_4
+    100112: WALL_02_5
+    100114: WALL_02_6
+    100116: WALL_02_7
+    100118: WALL_03_10
+    100120: WALL_03_11
+    100122: WALL_03_12
+    100124: WALL_03_3
+    100126: WALL_03_4
+    100128: WALL_03_5
+    100130: WALL_03_6
+    100132: WALL_03_7
+    100134: WALL_03_8
+    100136: WALL_03_9
+    100138: WINDOW_03_2
+    100140: WINDOW_03_3
+    100142: WINDOW_03_4
+    100144: WINDOW_03_5
+    100146: WINDOW_04_3
+    100148: WINDOW_04_4
+    100150: WINDOW_04_5
+    100152: WINDOW_04_6
+    400000: //RootNode
+    400002: ROOF_base_10
+    400004: ROOF_base_11
+    400006: ROOF_base_12
+    400008: ROOF_base_13
+    400010: ROOF_base_14
+    400012: ROOF_base_15
+    400014: ROOF_base_16
+    400016: ROOF_base_17
+    400018: ROOF_base_18
+    400020: ROOF_base_19
+    400022: ROOF_base_20
+    400024: ROOF_base_21
+    400026: ROOF_base_22
+    400028: ROOF_base_23
+    400030: ROOF_base_24
+    400032: ROOF_base_25
+    400034: ROOF_base_26
+    400036: ROOF_base_27
+    400038: ROOF_base_28
+    400040: ROOF_base_29
+    400042: ROOF_base_3
+    400044: ROOF_base_30
+    400046: ROOF_base_31
+    400048: ROOF_base_32
+    400050: ROOF_base_33
+    400052: ROOF_base_34
+    400054: ROOF_base_4
+    400056: ROOF_base_5
+    400058: ROOF_base_6
+    400060: ROOF_base_7
+    400062: ROOF_base_8
+    400064: ROOF_base_9
+    400066: ROOF_base_small_10
+    400068: ROOF_base_small_11
+    400070: ROOF_base_small_12
+    400072: ROOF_base_small_13
+    400074: ROOF_base_small_4
+    400076: ROOF_base_small_5
+    400078: ROOF_base_small_6
+    400080: ROOF_base_small_7
+    400082: ROOF_base_small_8
+    400084: ROOF_base_small_9
+    400086: ROOF_corner_out_2
+    400088: ROOF_corner_out_3
+    400090: ROOF_corner_out_4
+    400092: ROOF_corner_out_5
+    400094: ROOF_corner_out_6
+    400096: ROOF_corner_out_7
+    400098: ROOF_corner_out_8
+    400100: ROOF_corner_out_9
+    400102: ROOF_small_triangle_up_2
+    400104: ROOF_small_triangle_up_3
+    400106: WALL_02_2
+    400108: WALL_02_3
+    400110: WALL_02_4
+    400112: WALL_02_5
+    400114: WALL_02_6
+    400116: WALL_02_7
+    400118: WALL_03_10
+    400120: WALL_03_11
+    400122: WALL_03_12
+    400124: WALL_03_3
+    400126: WALL_03_4
+    400128: WALL_03_5
+    400130: WALL_03_6
+    400132: WALL_03_7
+    400134: WALL_03_8
+    400136: WALL_03_9
+    400138: WINDOW_03_2
+    400140: WINDOW_03_3
+    400142: WINDOW_03_4
+    400144: WINDOW_03_5
+    400146: WINDOW_04_3
+    400148: WINDOW_04_4
+    400150: WINDOW_04_5
+    400152: WINDOW_04_6
+    2100000: House_01_material
+    2300000: ROOF_base_10
+    2300002: ROOF_base_11
+    2300004: ROOF_base_12
+    2300006: ROOF_base_13
+    2300008: ROOF_base_14
+    2300010: ROOF_base_15
+    2300012: ROOF_base_16
+    2300014: ROOF_base_17
+    2300016: ROOF_base_18
+    2300018: ROOF_base_19
+    2300020: ROOF_base_20
+    2300022: ROOF_base_21
+    2300024: ROOF_base_22
+    2300026: ROOF_base_23
+    2300028: ROOF_base_24
+    2300030: ROOF_base_25
+    2300032: ROOF_base_26
+    2300034: ROOF_base_27
+    2300036: ROOF_base_28
+    2300038: ROOF_base_29
+    2300040: ROOF_base_3
+    2300042: ROOF_base_30
+    2300044: ROOF_base_31
+    2300046: ROOF_base_32
+    2300048: ROOF_base_33
+    2300050: ROOF_base_34
+    2300052: ROOF_base_4
+    2300054: ROOF_base_5
+    2300056: ROOF_base_6
+    2300058: ROOF_base_7
+    2300060: ROOF_base_8
+    2300062: ROOF_base_9
+    2300064: ROOF_base_small_10
+    2300066: ROOF_base_small_11
+    2300068: ROOF_base_small_12
+    2300070: ROOF_base_small_13
+    2300072: ROOF_base_small_4
+    2300074: ROOF_base_small_5
+    2300076: ROOF_base_small_6
+    2300078: ROOF_base_small_7
+    2300080: ROOF_base_small_8
+    2300082: ROOF_base_small_9
+    2300084: ROOF_corner_out_2
+    2300086: ROOF_corner_out_3
+    2300088: ROOF_corner_out_4
+    2300090: ROOF_corner_out_5
+    2300092: ROOF_corner_out_6
+    2300094: ROOF_corner_out_7
+    2300096: ROOF_corner_out_8
+    2300098: ROOF_corner_out_9
+    2300100: ROOF_small_triangle_up_2
+    2300102: ROOF_small_triangle_up_3
+    2300104: WALL_02_2
+    2300106: WALL_02_3
+    2300108: WALL_02_4
+    2300110: WALL_02_5
+    2300112: WALL_02_6
+    2300114: WALL_02_7
+    2300116: WALL_03_10
+    2300118: WALL_03_11
+    2300120: WALL_03_12
+    2300122: WALL_03_3
+    2300124: WALL_03_4
+    2300126: WALL_03_5
+    2300128: WALL_03_6
+    2300130: WALL_03_7
+    2300132: WALL_03_8
+    2300134: WALL_03_9
+    2300136: WINDOW_03_2
+    2300138: WINDOW_03_3
+    2300140: WINDOW_03_4
+    2300142: WINDOW_03_5
+    2300144: WINDOW_04_3
+    2300146: WINDOW_04_4
+    2300148: WINDOW_04_5
+    2300150: WINDOW_04_6
+    3300000: ROOF_base_10
+    3300002: ROOF_base_11
+    3300004: ROOF_base_12
+    3300006: ROOF_base_13
+    3300008: ROOF_base_14
+    3300010: ROOF_base_15
+    3300012: ROOF_base_16
+    3300014: ROOF_base_17
+    3300016: ROOF_base_18
+    3300018: ROOF_base_19
+    3300020: ROOF_base_20
+    3300022: ROOF_base_21
+    3300024: ROOF_base_22
+    3300026: ROOF_base_23
+    3300028: ROOF_base_24
+    3300030: ROOF_base_25
+    3300032: ROOF_base_26
+    3300034: ROOF_base_27
+    3300036: ROOF_base_28
+    3300038: ROOF_base_29
+    3300040: ROOF_base_3
+    3300042: ROOF_base_30
+    3300044: ROOF_base_31
+    3300046: ROOF_base_32
+    3300048: ROOF_base_33
+    3300050: ROOF_base_34
+    3300052: ROOF_base_4
+    3300054: ROOF_base_5
+    3300056: ROOF_base_6
+    3300058: ROOF_base_7
+    3300060: ROOF_base_8
+    3300062: ROOF_base_9
+    3300064: ROOF_base_small_10
+    3300066: ROOF_base_small_11
+    3300068: ROOF_base_small_12
+    3300070: ROOF_base_small_13
+    3300072: ROOF_base_small_4
+    3300074: ROOF_base_small_5
+    3300076: ROOF_base_small_6
+    3300078: ROOF_base_small_7
+    3300080: ROOF_base_small_8
+    3300082: ROOF_base_small_9
+    3300084: ROOF_corner_out_2
+    3300086: ROOF_corner_out_3
+    3300088: ROOF_corner_out_4
+    3300090: ROOF_corner_out_5
+    3300092: ROOF_corner_out_6
+    3300094: ROOF_corner_out_7
+    3300096: ROOF_corner_out_8
+    3300098: ROOF_corner_out_9
+    3300100: ROOF_small_triangle_up_2
+    3300102: ROOF_small_triangle_up_3
+    3300104: WALL_02_2
+    3300106: WALL_02_3
+    3300108: WALL_02_4
+    3300110: WALL_02_5
+    3300112: WALL_02_6
+    3300114: WALL_02_7
+    3300116: WALL_03_10
+    3300118: WALL_03_11
+    3300120: WALL_03_12
+    3300122: WALL_03_3
+    3300124: WALL_03_4
+    3300126: WALL_03_5
+    3300128: WALL_03_6
+    3300130: WALL_03_7
+    3300132: WALL_03_8
+    3300134: WALL_03_9
+    3300136: WINDOW_03_2
+    3300138: WINDOW_03_3
+    3300140: WINDOW_03_4
+    3300142: WINDOW_03_5
+    3300144: WINDOW_04_3
+    3300146: WINDOW_04_4
+    3300148: WINDOW_04_5
+    3300150: WINDOW_04_6
+    4300000: WINDOW_03_2
+    4300002: WALL_02_2
+    4300004: WINDOW_04_3
+    4300006: WALL_02_3
+    4300008: WINDOW_04_4
+    4300010: WALL_03_3
+    4300012: WALL_03_4
+    4300014: WINDOW_03_3
+    4300016: WINDOW_03_4
+    4300018: WINDOW_03_5
+    4300020: WALL_02_4
+    4300022: WALL_03_5
+    4300024: WALL_03_6
+    4300026: WALL_02_5
+    4300028: WALL_02_6
+    4300030: WALL_03_7
+    4300032: WALL_03_8
+    4300034: WINDOW_04_5
+    4300036: WALL_02_7
+    4300038: WINDOW_04_6
+    4300040: WALL_03_9
+    4300042: WALL_03_10
+    4300044: WALL_03_11
+    4300046: WALL_03_12
+    4300048: ROOF_base_small_4
+    4300050: ROOF_base_3
+    4300052: ROOF_corner_out_2
+    4300054: ROOF_corner_out_3
+    4300056: ROOF_base_4
+    4300058: ROOF_corner_out_4
+    4300060: ROOF_corner_out_5
+    4300062: ROOF_base_5
+    4300064: ROOF_base_small_5
+    4300066: ROOF_base_6
+    4300068: ROOF_base_7
+    4300070: ROOF_base_small_6
+    4300072: ROOF_base_8
+    4300074: ROOF_base_9
+    4300076: ROOF_base_small_7
+    4300078: ROOF_base_10
+    4300080: ROOF_base_11
+    4300082: ROOF_base_small_8
+    4300084: ROOF_base_12
+    4300086: ROOF_base_13
+    4300088: ROOF_base_14
+    4300090: ROOF_base_15
+    4300092: ROOF_base_16
+    4300094: ROOF_base_17
+    4300096: ROOF_base_18
+    4300098: ROOF_base_19
+    4300100: ROOF_base_small_9
+    4300102: ROOF_base_20
+    4300104: ROOF_base_21
+    4300106: ROOF_base_22
+    4300108: ROOF_base_small_10
+    4300110: ROOF_base_23
+    4300112: ROOF_base_24
+    4300114: ROOF_base_small_11
+    4300116: ROOF_base_25
+    4300118: ROOF_corner_out_6
+    4300120: ROOF_base_26
+    4300122: ROOF_corner_out_7
+    4300124: ROOF_base_27
+    4300126: ROOF_base_small_12
+    4300128: ROOF_base_28
+    4300130: ROOF_base_29
+    4300132: ROOF_base_30
+    4300134: ROOF_base_small_13
+    4300136: ROOF_corner_out_8
+    4300138: ROOF_corner_out_9
+    4300140: ROOF_base_31
+    4300142: ROOF_base_32
+    4300144: ROOF_base_33
+    4300146: ROOF_base_34
+    4300148: ROOF_small_triangle_up_2
+    4300150: ROOF_small_triangle_up_3
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,32 +422,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -72,10 +449,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,17 +462,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

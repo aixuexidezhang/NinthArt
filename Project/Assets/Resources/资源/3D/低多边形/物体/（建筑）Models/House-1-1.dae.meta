@@ -1,11 +1,56 @@
 fileFormatVersion: 2
 guid: 25f24237a48874649821fdbaf4312cb6
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Balkony-1-1
+    100002: DoorExtension-1-1
+    100004: FrontExtension-1-1
+    100006: //RootNode
+    100008: Main-1-1
+    100010: RoofWindowBig-1-1
+    100012: RoofWindowCentre-1-1
+    100014: RoofWindowsMiddle-1-1
+    100016: RoofWindowsSides-1-1
+    400000: Balkony-1-1
+    400002: DoorExtension-1-1
+    400004: FrontExtension-1-1
+    400006: //RootNode
+    400008: Main-1-1
+    400010: RoofWindowBig-1-1
+    400012: RoofWindowCentre-1-1
+    400014: RoofWindowsMiddle-1-1
+    400016: RoofWindowsSides-1-1
+    2100000: HouseWindow
+    2100002: HouseDiffuse
+    2300000: Balkony-1-1
+    2300002: DoorExtension-1-1
+    2300004: FrontExtension-1-1
+    2300006: Main-1-1
+    2300008: RoofWindowBig-1-1
+    2300010: RoofWindowCentre-1-1
+    2300012: RoofWindowsMiddle-1-1
+    2300014: RoofWindowsSides-1-1
+    3300000: Balkony-1-1
+    3300002: DoorExtension-1-1
+    3300004: FrontExtension-1-1
+    3300006: Main-1-1
+    3300008: RoofWindowBig-1-1
+    3300010: RoofWindowCentre-1-1
+    3300012: RoofWindowsMiddle-1-1
+    3300014: RoofWindowsSides-1-1
+    4300000: DoorExtension-1-1
+    4300002: RoofWindowsSides-1-1
+    4300004: Balkony-1-1
+    4300006: FrontExtension-1-1
+    4300008: Main-1-1
+    4300010: RoofWindowCentre-1-1
+    4300012: RoofWindowsMiddle-1-1
+    4300014: RoofWindowBig-1-1
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,32 +83,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -72,10 +110,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,17 +123,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

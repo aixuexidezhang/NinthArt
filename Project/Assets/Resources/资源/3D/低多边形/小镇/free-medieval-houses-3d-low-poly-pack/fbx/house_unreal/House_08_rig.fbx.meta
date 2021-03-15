@@ -1,11 +1,90 @@
 fileFormatVersion: 2
 guid: b40c04960bda83a4aa8fa5eda7d1d168
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door
+    100002: DOOR_01_1
+    100004: DOOR_01_1_rig
+    100006: //RootNode
+    100008: Left
+    100010: Left 1
+    100012: Left 2
+    100014: Left 3
+    100016: Left_Window
+    100018: Left_Window 1
+    100020: Left_Window 2
+    100022: Left_Window 3
+    100024: Right
+    100026: Right 1
+    100028: Right 2
+    100030: Right 3
+    100032: Right_Window
+    100034: Right_Window 1
+    100036: Right_Window 2
+    100038: Right_Window 3
+    100040: Root
+    100042: Root 1
+    100044: Root 2
+    100046: Root 3
+    100048: Root 4
+    100050: WINDOW_05_1
+    100052: WINDOW_05_1.001
+    100054: WINDOW_05_1.002
+    100056: WINDOW_05_1.003
+    100058: WINDOW_05_1_rig
+    100060: WINDOW_05_1_rig.001
+    100062: WINDOW_05_1_rig.002
+    100064: WINDOW_05_1_rig.003
+    400000: Door
+    400002: DOOR_01_1
+    400004: DOOR_01_1_rig
+    400006: //RootNode
+    400008: Left
+    400010: Left 1
+    400012: Left 2
+    400014: Left 3
+    400016: Left_Window
+    400018: Left_Window 1
+    400020: Left_Window 2
+    400022: Left_Window 3
+    400024: Right
+    400026: Right 1
+    400028: Right 2
+    400030: Right 3
+    400032: Right_Window
+    400034: Right_Window 1
+    400036: Right_Window 2
+    400038: Right_Window 3
+    400040: Root
+    400042: Root 1
+    400044: Root 2
+    400046: Root 3
+    400048: Root 4
+    400050: WINDOW_05_1
+    400052: WINDOW_05_1.001
+    400054: WINDOW_05_1.002
+    400056: WINDOW_05_1.003
+    400058: WINDOW_05_1_rig
+    400060: WINDOW_05_1_rig.001
+    400062: WINDOW_05_1_rig.002
+    400064: WINDOW_05_1_rig.003
+    2100000: House_01_material
+    4300000: DOOR_01_1
+    4300002: WINDOW_05_1.001
+    4300004: WINDOW_05_1
+    4300006: WINDOW_05_1.002
+    4300008: WINDOW_05_1.003
+    9500000: //RootNode
+    13700000: DOOR_01_1
+    13700002: WINDOW_05_1
+    13700004: WINDOW_05_1.001
+    13700006: WINDOW_05_1.002
+    13700008: WINDOW_05_1.003
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,32 +117,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -72,10 +144,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,17 +157,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

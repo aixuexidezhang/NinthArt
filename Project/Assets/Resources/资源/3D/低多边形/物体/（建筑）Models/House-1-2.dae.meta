@@ -1,11 +1,46 @@
 fileFormatVersion: 2
 guid: 583ddb9a9b25f6f48883407175565cbc
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DoorExtension-1-2
+    100002: FrontExtension-1-2
+    100004: //RootNode
+    100006: Main-1-2
+    100008: RoofWindowBig-1-2
+    100010: RoofWindowsFront-1-2
+    100012: RoofWindowsSide-1-2
+    400000: DoorExtension-1-2
+    400002: FrontExtension-1-2
+    400004: //RootNode
+    400006: Main-1-2
+    400008: RoofWindowBig-1-2
+    400010: RoofWindowsFront-1-2
+    400012: RoofWindowsSide-1-2
+    2100000: HouseWindow
+    2100002: HouseDiffuse
+    2300000: DoorExtension-1-2
+    2300002: FrontExtension-1-2
+    2300004: Main-1-2
+    2300006: RoofWindowBig-1-2
+    2300008: RoofWindowsFront-1-2
+    2300010: RoofWindowsSide-1-2
+    3300000: DoorExtension-1-2
+    3300002: FrontExtension-1-2
+    3300004: Main-1-2
+    3300006: RoofWindowBig-1-2
+    3300008: RoofWindowsFront-1-2
+    3300010: RoofWindowsSide-1-2
+    4300000: RoofWindowBig-1-2
+    4300002: FrontExtension-1-2
+    4300004: DoorExtension-1-2
+    4300006: Main-1-2
+    4300008: RoofWindowsFront-1-2
+    4300010: RoofWindowsSide-1-2
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,32 +73,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -72,10 +100,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,17 +113,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
