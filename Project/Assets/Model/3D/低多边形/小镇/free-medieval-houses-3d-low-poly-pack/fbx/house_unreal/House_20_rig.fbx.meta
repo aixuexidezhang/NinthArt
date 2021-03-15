@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: fcdf3a8feac389748966a77bc2db334e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door
+    100002: DOOR_02_1
+    100004: DOOR_02_1_rig
+    100006: //RootNode
+    100008: Left
+    100010: Left 1
+    100012: Left 2
+    100014: Left 3
+    100016: Left 4
+    100018: Left 5
+    100020: Left 6
+    100022: Left 7
+    100024: Left_WIndow
+    100026: Left_Window
+    100028: Left_WIndow 1
+    100030: Left_WIndow 2
+    100032: Left_WIndow 3
+    100034: Left_WIndow 4
+    100036: Left_WIndow 5
+    100038: Left_WIndow 6
+    100040: Right
+    100042: Right 1
+    100044: Right 2
+    100046: Right 3
+    100048: Right 4
+    100050: Right 5
+    100052: Right 6
+    100054: Right 7
+    100056: Right_WIndow
+    100058: Right_Window
+    100060: Right_WIndow 1
+    100062: Right_WIndow 2
+    100064: Right_WIndow 3
+    100066: Right_WIndow 4
+    100068: Right_WIndow 5
+    100070: Right_WIndow 6
+    100072: Root
+    100074: Root 1
+    100076: Root 2
+    100078: Root 3
+    100080: Root 4
+    100082: Root 5
+    100084: Root 6
+    100086: Root 7
+    100088: Root 8
+    100090: WINDOW_06_1
+    100092: WINDOW_06_1_rig
+    100094: WINDOW_07_1
+    100096: WINDOW_07_1.001
+    100098: WINDOW_07_1.002
+    100100: WINDOW_07_1.003
+    100102: WINDOW_07_1.004
+    100104: WINDOW_07_1.005
+    100106: WINDOW_07_1.006
+    100108: WINDOW_07_1_rig
+    100110: WINDOW_07_1_rig.001
+    100112: WINDOW_07_1_rig.002
+    100114: WINDOW_07_1_rig.003
+    100116: WINDOW_07_1_rig.004
+    100118: WINDOW_07_1_rig.005
+    100120: WINDOW_07_1_rig.006
+    400000: Door
+    400002: DOOR_02_1
+    400004: DOOR_02_1_rig
+    400006: //RootNode
+    400008: Left
+    400010: Left 1
+    400012: Left 2
+    400014: Left 3
+    400016: Left 4
+    400018: Left 5
+    400020: Left 6
+    400022: Left 7
+    400024: Left_WIndow
+    400026: Left_Window
+    400028: Left_WIndow 1
+    400030: Left_WIndow 2
+    400032: Left_WIndow 3
+    400034: Left_WIndow 4
+    400036: Left_WIndow 5
+    400038: Left_WIndow 6
+    400040: Right
+    400042: Right 1
+    400044: Right 2
+    400046: Right 3
+    400048: Right 4
+    400050: Right 5
+    400052: Right 6
+    400054: Right 7
+    400056: Right_WIndow
+    400058: Right_Window
+    400060: Right_WIndow 1
+    400062: Right_WIndow 2
+    400064: Right_WIndow 3
+    400066: Right_WIndow 4
+    400068: Right_WIndow 5
+    400070: Right_WIndow 6
+    400072: Root
+    400074: Root 1
+    400076: Root 2
+    400078: Root 3
+    400080: Root 4
+    400082: Root 5
+    400084: Root 6
+    400086: Root 7
+    400088: Root 8
+    400090: WINDOW_06_1
+    400092: WINDOW_06_1_rig
+    400094: WINDOW_07_1
+    400096: WINDOW_07_1.001
+    400098: WINDOW_07_1.002
+    400100: WINDOW_07_1.003
+    400102: WINDOW_07_1.004
+    400104: WINDOW_07_1.005
+    400106: WINDOW_07_1.006
+    400108: WINDOW_07_1_rig
+    400110: WINDOW_07_1_rig.001
+    400112: WINDOW_07_1_rig.002
+    400114: WINDOW_07_1_rig.003
+    400116: WINDOW_07_1_rig.004
+    400118: WINDOW_07_1_rig.005
+    400120: WINDOW_07_1_rig.006
+    2100000: House_01_material
+    4300000: DOOR_02_1
+    4300002: WINDOW_07_1.001
+    4300004: WINDOW_07_1.002
+    4300006: WINDOW_07_1.004
+    4300008: WINDOW_07_1.003
+    4300010: WINDOW_07_1.005
+    4300012: WINDOW_07_1.006
+    4300014: WINDOW_06_1
+    4300016: WINDOW_07_1
+    9500000: //RootNode
+    13700000: DOOR_02_1
+    13700002: WINDOW_06_1
+    13700004: WINDOW_07_1
+    13700006: WINDOW_07_1.001
+    13700008: WINDOW_07_1.002
+    13700010: WINDOW_07_1.003
+    13700012: WINDOW_07_1.004
+    13700014: WINDOW_07_1.005
+    13700016: WINDOW_07_1.006
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

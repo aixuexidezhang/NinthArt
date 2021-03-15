@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 1d2ca5408394b4148a3c0e17ec7af5a2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door
+    100002: DOOR_01_1
+    100004: DOOR_01_1_rig
+    100006: //RootNode
+    100008: Left
+    100010: Left 1
+    100012: Left 2
+    100014: Left 3
+    100016: Left_Window
+    100018: Left_Window 1
+    100020: Left_Window 2
+    100022: Left_Window 3
+    100024: Right
+    100026: Right 1
+    100028: Right 2
+    100030: Right 3
+    100032: Right_Window
+    100034: Right_Window 1
+    100036: Right_Window 2
+    100038: Right_Window 3
+    100040: ROOF_base_10
+    100042: ROOF_base_11
+    100044: ROOF_base_12
+    100046: ROOF_base_3
+    100048: ROOF_base_4
+    100050: ROOF_base_5
+    100052: ROOF_base_6
+    100054: ROOF_base_7
+    100056: ROOF_base_8
+    100058: ROOF_base_9
+    100060: ROOF_base_small_10
+    100062: ROOF_base_small_11
+    100064: ROOF_base_small_12
+    100066: ROOF_base_small_13
+    100068: ROOF_base_small_4
+    100070: ROOF_base_small_5
+    100072: ROOF_base_small_6
+    100074: ROOF_base_small_7
+    100076: ROOF_base_small_8
+    100078: ROOF_base_small_9
+    100080: ROOF_triangles_up_wood_3
+    100082: ROOF_triangles_up_wood_4
+    100084: ROOF_trinagle_left_wood_2
+    100086: ROOF_trinagle_left_wood_3
+    100088: ROOF_trinagle_right_wood_2
+    100090: ROOF_trinagle_right_wood_3
+    100092: ROOF_up_quad_2
+    100094: ROOF_up_quad_3
+    100096: Root
+    100098: Root 1
+    100100: Root 2
+    100102: Root 3
+    100104: Root 4
+    100106: WALL_03_3
+    100108: WALL_03_4
+    100110: WALL_03_5
+    100112: WALL_03_6
+    100114: WALL_03_7
+    100116: WALL_03_8
+    100118: WALL_04_3
+    100120: WALL_04_4
+    100122: WALL_04_5
+    100124: WALL_04_6
+    100126: WALL_05_2
+    100128: WALL_05_3
+    100130: WALL_05_4
+    100132: WINDOW_05_1
+    100134: WINDOW_05_1.001
+    100136: WINDOW_05_1.002
+    100138: WINDOW_05_1.003
+    100140: WINDOW_05_1_rig
+    100142: WINDOW_05_1_rig.001
+    100144: WINDOW_05_1_rig.002
+    100146: WINDOW_05_1_rig.003
+    400000: Door
+    400002: DOOR_01_1
+    400004: DOOR_01_1_rig
+    400006: //RootNode
+    400008: Left
+    400010: Left 1
+    400012: Left 2
+    400014: Left 3
+    400016: Left_Window
+    400018: Left_Window 1
+    400020: Left_Window 2
+    400022: Left_Window 3
+    400024: Right
+    400026: Right 1
+    400028: Right 2
+    400030: Right 3
+    400032: Right_Window
+    400034: Right_Window 1
+    400036: Right_Window 2
+    400038: Right_Window 3
+    400040: ROOF_base_10
+    400042: ROOF_base_11
+    400044: ROOF_base_12
+    400046: ROOF_base_3
+    400048: ROOF_base_4
+    400050: ROOF_base_5
+    400052: ROOF_base_6
+    400054: ROOF_base_7
+    400056: ROOF_base_8
+    400058: ROOF_base_9
+    400060: ROOF_base_small_10
+    400062: ROOF_base_small_11
+    400064: ROOF_base_small_12
+    400066: ROOF_base_small_13
+    400068: ROOF_base_small_4
+    400070: ROOF_base_small_5
+    400072: ROOF_base_small_6
+    400074: ROOF_base_small_7
+    400076: ROOF_base_small_8
+    400078: ROOF_base_small_9
+    400080: ROOF_triangles_up_wood_3
+    400082: ROOF_triangles_up_wood_4
+    400084: ROOF_trinagle_left_wood_2
+    400086: ROOF_trinagle_left_wood_3
+    400088: ROOF_trinagle_right_wood_2
+    400090: ROOF_trinagle_right_wood_3
+    400092: ROOF_up_quad_2
+    400094: ROOF_up_quad_3
+    400096: Root
+    400098: Root 1
+    400100: Root 2
+    400102: Root 3
+    400104: Root 4
+    400106: WALL_03_3
+    400108: WALL_03_4
+    400110: WALL_03_5
+    400112: WALL_03_6
+    400114: WALL_03_7
+    400116: WALL_03_8
+    400118: WALL_04_3
+    400120: WALL_04_4
+    400122: WALL_04_5
+    400124: WALL_04_6
+    400126: WALL_05_2
+    400128: WALL_05_3
+    400130: WALL_05_4
+    400132: WINDOW_05_1
+    400134: WINDOW_05_1.001
+    400136: WINDOW_05_1.002
+    400138: WINDOW_05_1.003
+    400140: WINDOW_05_1_rig
+    400142: WINDOW_05_1_rig.001
+    400144: WINDOW_05_1_rig.002
+    400146: WINDOW_05_1_rig.003
+    2100000: House_01_material.012
+    2300000: ROOF_base_10
+    2300002: ROOF_base_11
+    2300004: ROOF_base_12
+    2300006: ROOF_base_3
+    2300008: ROOF_base_4
+    2300010: ROOF_base_5
+    2300012: ROOF_base_6
+    2300014: ROOF_base_7
+    2300016: ROOF_base_8
+    2300018: ROOF_base_9
+    2300020: ROOF_base_small_10
+    2300022: ROOF_base_small_11
+    2300024: ROOF_base_small_12
+    2300026: ROOF_base_small_13
+    2300028: ROOF_base_small_4
+    2300030: ROOF_base_small_5
+    2300032: ROOF_base_small_6
+    2300034: ROOF_base_small_7
+    2300036: ROOF_base_small_8
+    2300038: ROOF_base_small_9
+    2300040: ROOF_triangles_up_wood_3
+    2300042: ROOF_triangles_up_wood_4
+    2300044: ROOF_trinagle_left_wood_2
+    2300046: ROOF_trinagle_left_wood_3
+    2300048: ROOF_trinagle_right_wood_2
+    2300050: ROOF_trinagle_right_wood_3
+    2300052: ROOF_up_quad_2
+    2300054: ROOF_up_quad_3
+    2300056: WALL_03_3
+    2300058: WALL_03_4
+    2300060: WALL_03_5
+    2300062: WALL_03_6
+    2300064: WALL_03_7
+    2300066: WALL_03_8
+    2300068: WALL_04_3
+    2300070: WALL_04_4
+    2300072: WALL_04_5
+    2300074: WALL_04_6
+    2300076: WALL_05_2
+    2300078: WALL_05_3
+    2300080: WALL_05_4
+    3300000: ROOF_base_10
+    3300002: ROOF_base_11
+    3300004: ROOF_base_12
+    3300006: ROOF_base_3
+    3300008: ROOF_base_4
+    3300010: ROOF_base_5
+    3300012: ROOF_base_6
+    3300014: ROOF_base_7
+    3300016: ROOF_base_8
+    3300018: ROOF_base_9
+    3300020: ROOF_base_small_10
+    3300022: ROOF_base_small_11
+    3300024: ROOF_base_small_12
+    3300026: ROOF_base_small_13
+    3300028: ROOF_base_small_4
+    3300030: ROOF_base_small_5
+    3300032: ROOF_base_small_6
+    3300034: ROOF_base_small_7
+    3300036: ROOF_base_small_8
+    3300038: ROOF_base_small_9
+    3300040: ROOF_triangles_up_wood_3
+    3300042: ROOF_triangles_up_wood_4
+    3300044: ROOF_trinagle_left_wood_2
+    3300046: ROOF_trinagle_left_wood_3
+    3300048: ROOF_trinagle_right_wood_2
+    3300050: ROOF_trinagle_right_wood_3
+    3300052: ROOF_up_quad_2
+    3300054: ROOF_up_quad_3
+    3300056: WALL_03_3
+    3300058: WALL_03_4
+    3300060: WALL_03_5
+    3300062: WALL_03_6
+    3300064: WALL_03_7
+    3300066: WALL_03_8
+    3300068: WALL_04_3
+    3300070: WALL_04_4
+    3300072: WALL_04_5
+    3300074: WALL_04_6
+    3300076: WALL_05_2
+    3300078: WALL_05_3
+    3300080: WALL_05_4
+    4300000: WALL_03_3
+    4300002: WALL_03_4
+    4300004: WALL_03_5
+    4300006: WALL_05_2
+    4300008: WALL_03_6
+    4300010: WALL_05_3
+    4300012: WALL_03_7
+    4300014: WALL_05_4
+    4300016: WALL_03_8
+    4300018: WALL_04_3
+    4300020: WALL_04_4
+    4300022: WALL_04_5
+    4300024: WALL_04_6
+    4300026: ROOF_base_3
+    4300028: ROOF_base_small_4
+    4300030: ROOF_base_small_5
+    4300032: ROOF_base_4
+    4300034: ROOF_base_small_6
+    4300036: ROOF_base_5
+    4300038: ROOF_base_small_7
+    4300040: ROOF_base_6
+    4300042: ROOF_base_small_8
+    4300044: ROOF_base_7
+    4300046: ROOF_base_small_9
+    4300048: ROOF_base_8
+    4300050: ROOF_base_small_10
+    4300052: ROOF_base_9
+    4300054: ROOF_base_small_11
+    4300056: ROOF_base_10
+    4300058: ROOF_base_small_12
+    4300060: ROOF_base_11
+    4300062: ROOF_base_small_13
+    4300064: ROOF_base_12
+    4300066: ROOF_triangles_up_wood_3
+    4300068: ROOF_triangles_up_wood_4
+    4300070: ROOF_up_quad_2
+    4300072: ROOF_trinagle_right_wood_2
+    4300074: ROOF_trinagle_left_wood_2
+    4300076: ROOF_up_quad_3
+    4300078: ROOF_trinagle_left_wood_3
+    4300080: ROOF_trinagle_right_wood_3
+    4300082: DOOR_01_1
+    4300084: WINDOW_05_1
+    4300086: WINDOW_05_1.001
+    4300088: WINDOW_05_1.002
+    4300090: WINDOW_05_1.003
+    9500000: //RootNode
+    13700000: DOOR_01_1
+    13700002: WINDOW_05_1
+    13700004: WINDOW_05_1.001
+    13700006: WINDOW_05_1.002
+    13700008: WINDOW_05_1.003
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

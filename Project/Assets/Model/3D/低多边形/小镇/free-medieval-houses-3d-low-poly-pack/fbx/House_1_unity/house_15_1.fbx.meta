@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 934dfb0e83379df408e1477ba042debe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door
+    100002: DOOR_06_Balkon_1
+    100004: DOOR_06_Balkon_1_rig
+    100006: //RootNode
+    100008: Left
+    100010: Left_Window
+    100012: Right
+    100014: Right_Window
+    100016: ROOF_base_round_2
+    100018: ROOF_base_round_3
+    100020: ROOF_base_small_4
+    100022: ROOF_base_small_5
+    100024: ROOF_base_small_6
+    100026: ROOF_base_small_7
+    100028: ROOF_base_small_8
+    100030: ROOF_base_small_9
+    100032: ROOF_triangles_up_wood_3
+    100034: ROOF_triangles_up_wood_4
+    100036: ROOF_trinagle_left_wood_2
+    100038: ROOF_trinagle_left_wood_3
+    100040: ROOF_trinagle_right_wood_2
+    100042: ROOF_trinagle_right_wood_3
+    100044: ROOF_Window_round_2
+    100046: ROOF_Window_round_3
+    100048: Root
+    100050: Root 1
+    100052: WALL_02_2
+    100054: WINDOW_01_Balkon_2
+    100056: WINDOW_06_1
+    100058: WINDOW_06_1_rig
+    400000: Door
+    400002: DOOR_06_Balkon_1
+    400004: DOOR_06_Balkon_1_rig
+    400006: //RootNode
+    400008: Left
+    400010: Left_Window
+    400012: Right
+    400014: Right_Window
+    400016: ROOF_base_round_2
+    400018: ROOF_base_round_3
+    400020: ROOF_base_small_4
+    400022: ROOF_base_small_5
+    400024: ROOF_base_small_6
+    400026: ROOF_base_small_7
+    400028: ROOF_base_small_8
+    400030: ROOF_base_small_9
+    400032: ROOF_triangles_up_wood_3
+    400034: ROOF_triangles_up_wood_4
+    400036: ROOF_trinagle_left_wood_2
+    400038: ROOF_trinagle_left_wood_3
+    400040: ROOF_trinagle_right_wood_2
+    400042: ROOF_trinagle_right_wood_3
+    400044: ROOF_Window_round_2
+    400046: ROOF_Window_round_3
+    400048: Root
+    400050: Root 1
+    400052: WALL_02_2
+    400054: WINDOW_01_Balkon_2
+    400056: WINDOW_06_1
+    400058: WINDOW_06_1_rig
+    2100000: House_01_material.019
+    2300000: ROOF_base_round_2
+    2300002: ROOF_base_round_3
+    2300004: ROOF_base_small_4
+    2300006: ROOF_base_small_5
+    2300008: ROOF_base_small_6
+    2300010: ROOF_base_small_7
+    2300012: ROOF_base_small_8
+    2300014: ROOF_base_small_9
+    2300016: ROOF_triangles_up_wood_3
+    2300018: ROOF_triangles_up_wood_4
+    2300020: ROOF_trinagle_left_wood_2
+    2300022: ROOF_trinagle_left_wood_3
+    2300024: ROOF_trinagle_right_wood_2
+    2300026: ROOF_trinagle_right_wood_3
+    2300028: ROOF_Window_round_2
+    2300030: ROOF_Window_round_3
+    2300032: WALL_02_2
+    2300034: WINDOW_01_Balkon_2
+    3300000: ROOF_base_round_2
+    3300002: ROOF_base_round_3
+    3300004: ROOF_base_small_4
+    3300006: ROOF_base_small_5
+    3300008: ROOF_base_small_6
+    3300010: ROOF_base_small_7
+    3300012: ROOF_base_small_8
+    3300014: ROOF_base_small_9
+    3300016: ROOF_triangles_up_wood_3
+    3300018: ROOF_triangles_up_wood_4
+    3300020: ROOF_trinagle_left_wood_2
+    3300022: ROOF_trinagle_left_wood_3
+    3300024: ROOF_trinagle_right_wood_2
+    3300026: ROOF_trinagle_right_wood_3
+    3300028: ROOF_Window_round_2
+    3300030: ROOF_Window_round_3
+    3300032: WALL_02_2
+    3300034: WINDOW_01_Balkon_2
+    4300000: WINDOW_01_Balkon_2
+    4300002: WALL_02_2
+    4300004: ROOF_base_round_2
+    4300006: ROOF_base_small_4
+    4300008: ROOF_base_small_5
+    4300010: ROOF_base_small_6
+    4300012: ROOF_triangles_up_wood_3
+    4300014: ROOF_base_small_7
+    4300016: ROOF_base_round_3
+    4300018: ROOF_base_small_8
+    4300020: ROOF_base_small_9
+    4300022: ROOF_triangles_up_wood_4
+    4300024: ROOF_Window_round_2
+    4300026: ROOF_trinagle_left_wood_2
+    4300028: ROOF_trinagle_right_wood_2
+    4300030: ROOF_trinagle_left_wood_3
+    4300032: ROOF_Window_round_3
+    4300034: ROOF_trinagle_right_wood_3
+    4300036: DOOR_06_Balkon_1
+    4300038: WINDOW_06_1
+    9500000: //RootNode
+    13700000: DOOR_06_Balkon_1
+    13700002: WINDOW_06_1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
